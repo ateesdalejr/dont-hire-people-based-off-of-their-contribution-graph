@@ -57,3 +57,6 @@ The script will iterate through each date in `date.txt`, make a commit, and push
 
 ## Disclaimer ✨
 This tool is a **simple demonstration** of how Git commit dates and author information can be manipulated. It's not a "fancy" hacking tool, but rather leverages the basic functionalities of Git. It helps you understand that what you see on a contribution graph is based on commit metadata, which can be controlled.
+
+## Hiring Note 🧑‍💻
+Please do not use contribution graphs as a hiring divining rod. A grid of green squares can mean "productive engineer," but it can also mean "script enthusiast," "open source maintainer with weird hours," "person who commits generated files," or "someone who discovered this repo and chose chaos." Good candidates are measured by judgment, collaboration, curiosity, craft, and the work they can actually explain, not by whether their profile looks like a lawn that has been watered every day for ten years.

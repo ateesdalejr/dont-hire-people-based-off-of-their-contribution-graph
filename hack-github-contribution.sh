@@ -21,7 +21,7 @@ for date in $date_data; do
     git add "$file_name"
 
     # Commit with the specific message and date
-    git commit -m "Commit on ${commit_date}" --date="${commit_date}"
+    git commit -m "Contribution graph backfill for ${commit_date}: this is not evidence I worked this day" --date="${commit_date}"
 
     # Push the changes. Consider 'git push --force' if you are rewriting history and
     # understand the implications, especially for backdated commits.
